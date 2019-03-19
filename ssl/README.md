@@ -9,4 +9,4 @@
 
 ## Survey
 
-* [Self-supervised Visual Feature Learning with DNN: A Survey](https://arxiv.org/pdf/1902.06162.pdf){:target="_blank"}
+* [Self-supervised Visual Feature Learning with DNN: A Survey](https://arxiv.org/pdf/1902.06162.pdf)
