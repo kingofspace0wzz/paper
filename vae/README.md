@@ -11,3 +11,9 @@
 ## Theory
 
 * [Memorization in Overparameterized Autoencoders, 2018](https://arxiv.org/pdf/1810.10333.pdf)
+
+## Flow
+
+* [Latent Normalizing Flows for Discrete Sequences](https://arxiv.org/pdf/1901.10548.pdf)
+
+* [Glow: Generative Flow with Invertible 1x1 convolutions](https://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-convolutions.pdf)
