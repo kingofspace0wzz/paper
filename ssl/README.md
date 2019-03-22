@@ -10,3 +10,7 @@
 ## Survey
 
 * [Self-supervised Visual Feature Learning with DNN: A Survey](https://arxiv.org/pdf/1902.06162.pdf)
+
+## Image generation
+
+* [High-Fidelity Image Generation with Fewer Labels](https://arxiv.org/pdf/1903.02271.pdf)
