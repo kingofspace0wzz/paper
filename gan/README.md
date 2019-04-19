@@ -9,3 +9,5 @@
 * [Spectral Normalization for GAN, 2018](https://arxiv.org/pdf/1802.05957.pdf)
 
 * [Unpaired Image to Image Translation using Cycle-Consistent Adversarial Networks, 2017](https://arxiv.org/pdf/1703.10593.pdf)
+
+* [Cycle Gan](https://arxiv.org/pdf/1703.10593.pdf)
