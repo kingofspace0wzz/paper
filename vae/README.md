@@ -17,3 +17,7 @@
 * [Latent Normalizing Flows for Discrete Sequences](https://arxiv.org/pdf/1901.10548.pdf)
 
 * [Glow: Generative Flow with Invertible 1x1 convolutions](https://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-convolutions.pdf)
+
+## Disentangledment
+
+* [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
