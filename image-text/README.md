@@ -17,3 +17,7 @@
 * [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, 2015](https://arxiv.org/pdf/1506.05751.pdf)
 
 * [DRAW: A Recurrent Neural Network for Image Generation, 2015](https://arxiv.org/pdf/1502.04623.pdf)
+
+## QA/QG
+
+* [Information Maximizing Visual Question Generation](https://arxiv.org/pdf/1903.11207.pdf)
