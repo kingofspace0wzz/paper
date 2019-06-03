@@ -18,6 +18,8 @@
 
 * [DRAW: A Recurrent Neural Network for Image Generation, 2015](https://arxiv.org/pdf/1502.04623.pdf)
 
+* [Generative Adversarial Text to Image Synthesis, 2016](https://arxiv.org/pdf/1605.05396.pdf)
+
 ## QA/QG
 
 * [Information Maximizing Visual Question Generation](https://arxiv.org/pdf/1903.11207.pdf)
