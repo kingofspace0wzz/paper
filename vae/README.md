@@ -24,4 +24,21 @@
 
 ## Disentangledment
 
-* [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/pdf/1811.12359.pdf)
+* [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations, 2019](https://arxiv.org/pdf/1811.12359.pdf)
+
+## Variational Inference
+
+* [Inference Suboptimality in VAE, 2018](https://arxiv.org/pdf/1801.03558.pdf)
+
+* [Semi-Amortized VAE, 2018](https://arxiv.org/pdf/1802.02550.pdf)
+
+* [Advances in VI, 2017](https://arxiv.org/pdf/1711.05597.pdf)
+
+* [Stochastic Variational Inference, 2013](http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf)
+
+* [EM in ML](http://www2.ece.rochester.edu/~zduan/resource/eecs349_expectation_maximization.pdf)
+
+## Convex
+
+* [CRVI: Convex Relaxation for Variational Inference, 2018](http://proceedings.mlr.press/v80/fazelnia18a/fazelnia18a.pdf)
+
