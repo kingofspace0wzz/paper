@@ -15,3 +15,7 @@
 * [Correlation Coefficients and Semantic Textual Similarity](https://www.aclweb.org/anthology/N19-1100)
 
 * [Integration of KG embedding into Topic Modeling with Hierarchical Dirichlet Process](https://www.aclweb.org/anthology/N19-1099)
+
+### NMT
+
+* [Differentiable Sampling with Flexible Reference Word Orderfor Neural Machine Translation](https://www.aclweb.org/anthology/N19-1207)
