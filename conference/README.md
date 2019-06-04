@@ -19,3 +19,9 @@
 ### NMT
 
 * [Differentiable Sampling with Flexible Reference Word Orderfor Neural Machine Translation](https://www.aclweb.org/anthology/N19-1207)
+
+### Vision
+
+* [Learning to Navigate Unseen Environments:Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268)
+
+* [Strong and Simple Baselines for Multimodal Utterance Embeddings](https://www.aclweb.org/anthology/N19-1267)
