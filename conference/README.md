@@ -8,6 +8,8 @@
 
 * [Adversarial Decomposition of Text Representation](https://www.aclweb.org/anthology/N19-1088)
 
+* [Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation](https://www.aclweb.org/anthology/N19-1411)
+
 ### Semantics
 
 * [Unsupervised Deep Structured Semantic Modelsfor Commonsense Reasoning](https://www.aclweb.org/anthology/N19-1094)
