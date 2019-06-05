@@ -27,3 +27,7 @@
 * [Learning to Navigate Unseen Environments:Back Translation with Environmental Dropout](https://www.aclweb.org/anthology/N19-1268)
 
 * [Strong and Simple Baselines for Multimodal Utterance Embeddings](https://www.aclweb.org/anthology/N19-1267)
+
+### Best Paper
+
+* [CNM: An Interpretable Complex-valued Network for Matching](https://www.aclweb.org/anthology/N19-1420)
