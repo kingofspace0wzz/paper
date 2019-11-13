@@ -16,6 +16,8 @@
 
 * [Memorization in Overparameterized Autoencoders, 2018](https://arxiv.org/pdf/1810.10333.pdf)
 
+* [VAE Learning via Stein Variational Gradient Descent](https://arxiv.org/pdf/1704.05155.pdf)
+
 ## Flow
 
 * [Latent Normalizing Flows for Discrete Sequences](https://arxiv.org/pdf/1901.10548.pdf)
