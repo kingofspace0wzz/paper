@@ -34,6 +34,10 @@
 
 * [Towards a Definition of Disentangled Representations, 2018](https://arxiv.org/pdf/1812.02230.pdf)
 
+* [Disentangling Disentanglement in VAE, 2019](https://arxiv.org/pdf/1812.02833.pdf)
+
+* [Flexibly Fair Representation Learning by Disentanglement, 2019](http://proceedings.mlr.press/v97/creager19a/creager19a.pdf)
+
 ## Variational Inference
 
 * [Inference Suboptimality in VAE, 2018](https://arxiv.org/pdf/1801.03558.pdf)
@@ -61,3 +65,5 @@
 * [Resampled Priors for VAE, 2018](https://arxiv.org/pdf/1810.11428.pdf)
 
 * [Deep Unsupervised Clustering with Gaussian Mixture VAE, 2016](https://arxiv.org/pdf/1611.02648.pdf)
+
+* [VAE with Jointly Optimized Latent Dependecy Structure](https://openreview.net/pdf?id=SJgsCjCqt7)
