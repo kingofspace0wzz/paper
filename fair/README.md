@@ -13,3 +13,9 @@
 * [Censoring Representations with an Adversary, 2015](https://arxiv.org/pdf/1511.05897.pdf)
 
 * [Learning Adversarially Fair and Transferable Representations, 2019](https://arxiv.org/pdf/1802.06309.pdf)
+
+## Wasserstein
+
+* [MATCHING CODE AND LAW: ACHIEVING ALGORITHMIC FAIRNESS WITHOPTIMAL TRANSPORT, 2017](https://arxiv.org/pdf/1712.07924.pdf)
+
+* [Obtaining Fairness using Optimal Transport Theory, 2019](http://proceedings.mlr.press/v97/gordaliza19a/gordaliza19a.pdf)
