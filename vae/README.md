@@ -59,3 +59,5 @@
 * [Deep and Hierarchical Implicit Models, 2017](https://arxiv.org/pdf/1702.08896v1.pdf)
 
 * [Resampled Priors for VAE, 2018](https://arxiv.org/pdf/1810.11428.pdf)
+
+* [Deep Unsupervised Clustering with Gaussian Mixture VAE, 2016](https://arxiv.org/pdf/1611.02648.pdf)
