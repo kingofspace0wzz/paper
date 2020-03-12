@@ -30,6 +30,8 @@
 
 * [Gradient Based Neural DAG Learning, 2019](https://arxiv.org/pdf/1906.02226.pdf)
 
+* [DAG-DNN: DAG Structure Learning with Graph Neural Networks, 2019](https://arxiv.org/pdf/1904.10098.pdf)
+
 ## ANM
 
 * [Caual Discovery with Continuous Additive Noise Models, 2014](http://jmlr.org/papers/volume15/peters14a/peters14a.pdf)
@@ -39,3 +41,5 @@
 * [Learning Functional Causal Models with GAN, 2017](https://arxiv.org/pdf/1709.05321.pdf)
 
 * [Differentiable Causal Backdoor Discovery, 2020](https://arxiv.org/pdf/2003.01461.pdf)
+
+* [Causal Structure Discovery from Distributions Arising from Mixtures of DAGs, 2020](https://arxiv.org/pdf/2001.11940.pdf)
