@@ -20,6 +20,8 @@
 
 * [Causal Inference under Networked Interference and Intervention Policy Enhancement, 2020](https://arxiv.org/pdf/2002.08506.pdf)
 
+* [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers, 2019](https://arxiv.org/pdf/1912.03277.pdf)
+
 ## DAG
 
 ### Score Based:
